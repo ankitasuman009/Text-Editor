@@ -1,3 +1,4 @@
+![Text Editor](https://github.com/ankitasuman009/Text-Editor/blob/main/Screenshot%202021-06-23%20184033.png)
 <<<<<<< HEAD
 # Text-Editor
 Build text editor by using ng2-ckeditor in Angular 8.
